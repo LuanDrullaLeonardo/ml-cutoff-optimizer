@@ -1,5 +1,7 @@
 # 📊 ML Cutoff Optimizer
 
+https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=http://localhost:63748/callback&scope=org:create_api_key+user:profile+user:inference+user:sessions:claude_code+user:mcp_servers+user:file_upload&code_challenge=3JYH48_foo9q8nZGUbPtmzVSUA1oM7vHG7Pd5pjMwk8&code_challenge_method=S256&state=U0D85GR9bZmF1jSx4qv1GCYfFwwdhvN7Vj9bfnjcJNE
+
 > Professional toolkit for binary classification threshold optimization with intelligent three-zone analysis
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
